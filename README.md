@@ -3,4 +3,6 @@ Real Option Pricer for Development of the economic analysis models of renewable 
 
 Lab. of Engineering Economic System Analysis
 
+Seoul National University
+
 Supported by National Research Foundation of Korea
